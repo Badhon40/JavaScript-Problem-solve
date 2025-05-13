@@ -1,4 +1,4 @@
-// Question 2: Create an array of objects representing books with properties: title, author, and year.
+// Question 1: Write a function that takes an array of objects and returns an array of names of people who
 
 const people = [
   { name: "Alice", age: 25, gender: "Female" },
